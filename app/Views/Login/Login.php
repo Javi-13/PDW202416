@@ -23,5 +23,4 @@
 </body>
 
 <script src="public/Js/funLogin.js"></script>
-
 </html>

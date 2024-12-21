@@ -1,0 +1,24 @@
+body{
+    background-color: antiquewhite;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button{
+    font-size: .7em;
+    background-color: rgb(91, 154, 212);
+    color: white;
+    border-radius: .3em;
+    width: 25%;
+    margin-bottom: .5em;
+    box-shadow: 5px 5px 10px #003;
+}
+
+input{
+    margin: .5em;
+    width: 50%;
+}
